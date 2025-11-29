@@ -37,5 +37,36 @@ Wireshark Packet Capture and Filter Usage
 ## OUTPUT:
 Captured Packets with Protocol Analysis and Detailed Packet Info
 
+<img width="955" height="1020" alt="Screenshot 2025-10-10 083911" src="https://github.com/user-attachments/assets/5fe9a429-ed03-4309-9122-7521b4fdc43c" />
+<img width="961" height="1018" alt="image" src="https://github.com/user-attachments/assets/61fa74e4-f40c-459f-9bac-61f10f138f3b" />
+<img width="758" height="816" alt="image" src="https://github.com/user-attachments/assets/a87d51fd-5943-451c-a293-22023377a7c8" />
+
+
+
+## ip
+<img width="1012" height="1017" alt="image" src="https://github.com/user-attachments/assets/5efe4b3a-99f7-4c36-a416-0e723ecc12ed" />
+
+## udp
+<img width="959" height="1013" alt="Screenshot 2025-10-10 094729" src="https://github.com/user-attachments/assets/f9aa861c-f14c-401d-b831-81470b4e63d1" />
+
+## tcp
+<img width="1014" height="1018" alt="image" src="https://github.com/user-attachments/assets/9080a26b-6717-4071-a172-f2a6b8fb93da" />
+
+## suspicious activity
+<img width="1098" height="1015" alt="image" src="https://github.com/user-attachments/assets/3df53210-834b-4016-ae18-650bf216e120" />
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
